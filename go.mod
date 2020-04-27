@@ -1,6 +1,6 @@
 module github.com/sandertv/mcwss
 
-go1.6
+go 1.6
 
 require (
 	github.com/google/uuid v1.1.0
